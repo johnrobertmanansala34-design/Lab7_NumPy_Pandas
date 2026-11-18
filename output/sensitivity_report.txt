@@ -1,0 +1,9 @@
+STATISTICAL ROBUSTNESS AND SENSITIVITY REPORT
+==================================================
+Bootstrap Repetitions: 290
+Selected Features: [np.int64(146), np.int64(574), np.int64(196), np.int64(145), np.int64(477)]
+Largest Change in Mean Difference: 0.0081
+Features with Changed Difference Sign: 0
+Features with Changed Ranking: 0
+
+Interpretation: Imputation impacts variance and ranking stability differently across sparse vs dense features.
